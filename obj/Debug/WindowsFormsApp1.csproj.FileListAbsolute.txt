@@ -1,0 +1,30 @@
+C:\Users\alexv\source\repos\WindowsFormsApp1\bin\Debug\BD_Test.mdf
+C:\Users\alexv\source\repos\WindowsFormsApp1\bin\Debug\BD_Test_log.ldf
+C:\Users\alexv\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alexv\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alexv\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FenPrincipale.resources
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FenMonstres.resources
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FenEquipes.resources
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FenJoueur.resources
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FenPersonnages.resources
+C:\Users\alexv\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FenEquipeParam.resources
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\bin\Debug\BD_Test.mdf
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\bin\Debug\BD_Test_log.ldf
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\obj\Debug\WindowsFormsApp1.FenPrincipale.resources
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alexv\source\repos\WindowsFormsApp1 - Copie\obj\Debug\WindowsFormsApp1.Fenetres.FenMonstres.resources

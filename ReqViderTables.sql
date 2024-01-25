@@ -1,0 +1,6 @@
+DELETE FROM Equipe
+DELETE FROM FaitParti
+DELETE FROM Joueur
+DELETE FROM Monstre
+DELETE FROM Niveau
+DELETE FROM Personnage
